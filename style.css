@@ -87,9 +87,17 @@ nav {
     text-align: center;
 }
 .intro-image{
-    /* margin: auto; */
+     /* margin: auto;  */
     text-align: center;
     
+    
+}
+.intro-image img {
+    width: 25em;
+    height: 30rem;
+    border-radius: 20%;
+    padding-top: 30px ;
+    margin-bottom: 40px;
 }
 .menu a, .icon-menu{
     
