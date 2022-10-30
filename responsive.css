@@ -84,10 +84,18 @@
     }
   
 }
+
+
+
 @media (min-width: 900px){
     .card-container-e{
         padding-right: 0px, 40px, 0px;
 
+    }
+    .intro-image img {
+        width: 20em;
+        height: 25rem;
+     
     }
 }
 @media (max-width: 1550px ){
@@ -95,13 +103,13 @@
         display: none;
     }
 }
-@media (min-width: 576px){
+@media (min-width: 500px){
     /* .intro-image{
         gap: -50px;
     } */
     .intro-image img {
-        width: 20em;
-        height: 25rem;
+        width: 30em;
+        height: 35rem;
         border-radius: 15%;
         
     }
